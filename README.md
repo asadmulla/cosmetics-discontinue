@@ -13,3 +13,4 @@ where i learn about The California Safe Cosmetics Act (CSCA) of 2005 & use of ch
 
 
 build Product Discontinuation Prediction Model: This model predicts the likelihood of products being discontinued based on their chemical composition and other attributes.
+Streamlit App : https://cosmetics-discontinue-ul2pevevnsgiejyo4r3aqd.streamlit.app/
